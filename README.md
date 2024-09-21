@@ -5,15 +5,31 @@
 ## About Me
 I am a **Senior Lecturer** at **Satbayev University** and a **PhD candidate** in **Mathematical and Computer Modeling**. My passion lies in teaching and research, particularly in the fields of **Information Systems** and **Data Science**.
 
-## Skills
+## Education
 
-- **Programming Languages:** Python
-- **Areas of Expertise:** Information Systems, Data Science, Mathematical Modeling
+- **PhD in Mathematical and Computer Modeling** (Expected), Kazakh-British Technical University
+- **M.Sc in Information Systems**, 2016, Kazakh-British Technical University
+- **B.Sc in Information Systems**, 2014, Kazakh-British Technical University
 
+## Interests
 
-## What You'll Find Here
-- **Research:** Ongoing research projects and publications related to my PhD studies.
-- **Resources:** Helpful tutorials, scripts, and guides for students and fellow developers.
+- Information Systems
+- Data Science
+- Mathematical Modeling
+
+## Publications
+
+1. **Method to Evaluate a Bike-Sharing System Based on Performance Parameters**  
+   *Pashkevich, A., Kłos, M.J., Jaremski, R., Aristombayeva, M.*, *Lecture Notes in Networks and Systems*, 2021.  
+   [Link to Publication]([[[[https://link-to-publication.com](https://www2.scopus.com/record/display.uri?eid=2-s2.0-85108226512&origin=resultslist)](https://www2.scopus.com/sourceid/21100901469)](https://link.springer.com/chapter/10.1007/978-3-030-71771-1_7)](https://scholar.google.com/citations?user=ESi4XtUAAAAJ&hl=ru&oi=ao))
+
+2. **Improving computer support system for drivers with multiport memory devices**  
+   *Khasanov, R., Shepelev, V.D., Almetova, Z., Shubenkova, K., Aristombayeva, M.*, *VEHITS 2019 - Proceedings of the 5th International Conference on Vehicle Technology and Intelligent Transport Systems*, 2019.  
+   [Link to Publication]([[https://link-to-publication.com](https://www2.scopus.com/record/display.uri?eid=2-s2.0-85067565467&origin=resultslist)](https://www.openrepository.ru/article?id=198352))
+
+3. **Cloud railroad simulator**  
+   *Aristombayeva, M., Duisenbayeva, A., Shubenkova, K., Shepelev, V.*, *VEHITS 2019 - Proceedings of the 5th International Conference on Vehicle Technology and Intelligent Transport Systems*, 2019.  
+   [Link to Publication](https://link-to-publication.com)
 
 ## Get in Touch
 I am always open to collaboration and discussions! You can reach me via:
