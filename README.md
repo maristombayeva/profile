@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Meruyert's Profile! 👋
 
 ![Profile Banner](https://static.independent.co.uk/2021/12/09/09/iStock-1333589684.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp)
 
