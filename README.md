@@ -1,15 +1,15 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiftingparadigms.nl%2Fprojects%2Falmaty%2F&psig=AOvVaw2ra8orXUaxVTBSMk9pw0g4&ust=1727024606379000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDDppTC1IgDFQAAAAAdAAAAABAJ)
+![Profile Banner](https://static.independent.co.uk/2021/12/09/09/iStock-1333589684.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp)
 
 ## About Me
 I am a **Senior Lecturer** at **Satbayev University** and a **PhD candidate** in **Mathematical and Computer Modeling**. My passion lies in teaching and research, particularly in the fields of **Information Systems** and **Data Science**.
 
 ## Skills
+
 - **Programming Languages:** Python
 - **Areas of Expertise:** Information Systems, Data Science, Mathematical Modeling
 
-![Python Logo](https://your-image-url.com/python-logo.png)
 
 ## What You'll Find Here
 - **Research:** Ongoing research projects and publications related to my PhD studies.
